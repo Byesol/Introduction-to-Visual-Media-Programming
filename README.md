@@ -1,3 +1,3 @@
 # visual-media
 
-These programs are programs of visuasl media class
+These programs are programs of sogang Introduction to Visual media Programming
